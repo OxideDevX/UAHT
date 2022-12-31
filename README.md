@@ -11,7 +11,7 @@
 
 ## Умови
 
-UAHT може використовуватись згідно прав і свобод людини відповідно до ліцензії MIT та рекомендацій FATF.
+UAHT може використовуватись згідно прав і свобод людини відповідно WWдо ліцензії MIT та рекомендацій FATF.
 
 ## Посилання
 
@@ -21,6 +21,7 @@ UAHT може використовуватись згідно прав і сво
 - Контракт: https://polygonscan.com/token/0x0d9447e16072b636b4a1e8f2b8c644e58f3eaa6a#readContract
 - WalletConnect: https://walletconnect.com/
 - UAHT_DAO: https://github.com/starscrowding/UAHT/blob/dev/contracts/UAHT_DAO.sol
+- Whitepaper:https://github.com/starscrowding/UAHT/blob/dev/public/whitepaper.pdf
 
 ## Часті питання
 
